@@ -1,0 +1,115 @@
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\bin\Debug\DangKyTinChi.exe.config
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\bin\Debug\DangKyTinChi.exe
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\bin\Debug\DangKyTinChi.pdb
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\bin\Debug\Guna.UI2.dll
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.AssemblyReference.cache
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmDangNhap.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.Properties.Resources.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.GenerateResource.cache
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.CoreCompileInputs.cache
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTi.48B1A0E5.Up2Date
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.exe
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.pdb
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmMainSV.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmDangKy.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmLichSuDK.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmKetQuaDK.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmTKB.resources
+D:\My Project\Project\DangKyTinChi\DangKyTinChi\DangKyTinChi\obj\Debug\DangKyTinChi.frmTraCuu.resources
+D:\dktctrang\DangKyTinChi\bin\Debug\DangKyTinChi.exe.config
+D:\dktctrang\DangKyTinChi\bin\Debug\DangKyTinChi.exe
+D:\dktctrang\DangKyTinChi\bin\Debug\DangKyTinChi.pdb
+D:\dktctrang\DangKyTinChi\bin\Debug\Guna.UI2.dll
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.AssemblyReference.cache
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmDangNhap.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmDangKy.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmKetQuaDK.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmLichSuDK.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmMainSV.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmTKB.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmTraCuu.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.Properties.Resources.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.GenerateResource.cache
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.csproj.CoreCompileInputs.cache
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTi.48B1A0E5.Up2Date
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.exe
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.pdb
+D:\dktctrang\DangKyTinChi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.Shared.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\EnvDTE.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\stdole.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmDMLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmMainAdmin.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmDMHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmDMSVLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmLichSuLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmLichSuHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmLichSuSVLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmQuanlyLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmRptLHPHuy.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmSVLHP.resources
+D:\dktctrang\DangKyTinChi\obj\Debug\DangKyTinChi.frmRptKQDK.resources
